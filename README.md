@@ -31,7 +31,7 @@ $ python3 run_tests.py
 
 | Member | Roll No. | GitHub | Responsibility |
 |---|---|---|---|
-| **Kunal Dev Sahu** (lead) | 2401010244 | [@kunaldevsahu](https://github.com/kunaldevsahu) | Main control unit, data cache, CPU integration, system testbench, assembler, reference simulator, test runner, documentation |
+| **Kunal Dev Sahu**  | 2401010244 | [@kunaldevsahu](https://github.com/kunaldevsahu) | Main control unit, data cache, CPU integration, system testbench, assembler, reference simulator, test runner, documentation |
 | **Vaibhav Singh** | 2401020074 | [@VaibhavSingh50](https://github.com/VaibhavSingh50) | ALU and ALU control unit |
 | **Himanshu Pal** | 2401010190 | [@HimanshuPal29](https://github.com/HimanshuPal29) | Register file and sign extender |
 | **Kevish Sewliya** | 2401010224 | [@kevish-dev](https://github.com/kevish-dev) | Memory interface: instruction memory, data memory, memory controller, memory-mapped I/O |
