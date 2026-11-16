@@ -4,7 +4,7 @@
 
 A 32-bit MIPS processor written in Verilog. Every instruction finishes in **one clock cycle**. The processor is connected to a full **memory interface** (address decoder, byte loads/stores, memory-mapped I/O) and a direct-mapped **data cache** that measures hit rate and AMAT. It runs 9 real MIPS programs and passes **all 17 tests**.
 
-▶ **Demo video:** [Watch the demo (3 min)](VIDEO_LINK_HERE) &nbsp;·&nbsp; 📄 **Report:** [Project_Report.pdf](docs/Project_Report.pdf) &nbsp;·&nbsp; 📊 **Slides:** [presentation](presentation/MIPS_Processor_Presentation.pdf)
+▶ **Demo video:** [Watch the demo (3 min)](https://drive.google.com/file/d/1W4KYxENj62Qxt_9aP3Fm3JWZ2EOkqpAV/view?usp=sharing) &nbsp;·&nbsp; 📄 **Report:** [Project_Report.pdf](docs/Project_Report.pdf) &nbsp;·&nbsp; 📊 **Slides:** [presentation](presentation/MIPS_Processor_Presentation.pdf)
 
 ![All 17 tests passing](docs/figures/test_results.png)
 
