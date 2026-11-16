@@ -5,7 +5,7 @@
 
 | Member | Roll No. | Email | GitHub |
 |---|---|---|---|
-| Kunal Dev Sahu (team lead) | 2401010244 | kunal.sahu2024@nst.rishihood.edu.in | [@kunaldevsahu](https://github.com/kunaldevsahu) |
+| Kunal Dev Sahu | 2401010244 | kunal.sahu2024@nst.rishihood.edu.in | [@kunaldevsahu](https://github.com/kunaldevsahu) |
 | Vaibhav Singh | 2401020074 | vaibhav.singh2024@nst.rishihood.edu.in | [@VaibhavSingh50](https://github.com/VaibhavSingh50) |
 | Himanshu Pal | 2401010190 | himanshu.pal2024@nst.rishihood.edu.in | [@HimanshuPal29](https://github.com/HimanshuPal29) |
 | Kevish Sewliya | 2401010224 | kevish.sewliya2024@nst.rishihood.edu.in | [@kevish-dev](https://github.com/kevish-dev) |
@@ -15,7 +15,7 @@
 
 ## Kunal Dev Sahu: integration, control, cache, tools
 
-**Role:** Team lead. Defined the shared interfaces, built the control unit and cache, joined all modules into the working CPU, and built the verification and tooling.
+**Role:** Defined the shared interfaces, built the control unit and cache, joined all modules into the working CPU, and built the verification and tooling.
 
 | File | What it does |
 |---|---|
@@ -99,5 +99,5 @@ Detail: [modules/pc_and_programs.md](modules/pc_and_programs.md)
 
 1. **Interface first:** Kunal pushed `defines.vh`, the port lists and the test runner, so everyone built against the same contract.
 2. **Feature branches:** each member built their module and its testbench on their own branch (`feature/alu`, `feature/register-file`, `feature/memory-interface`, `feature/pc-and-programs`) and opened a pull request.
-3. **Review and merge:** Kunal reviewed and merged each pull request into `main`.
+3. **Review and merge:** each pull request was reviewed and merged into `main`.
 4. **Integration:** Kunal connected all modules in `mips_cpu.v` / `mips_top.v`, then ran the full-system tests until all 17 passed.
